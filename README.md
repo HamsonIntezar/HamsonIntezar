@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I’m Hamson Intezar  
 
-<!--
-**HamsonIntezar/HamsonIntezar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☁️ **DevOps Engineer | Site Reliability Engineer (SRE) | Cloud Infrastructure Specialist**  
+📧 **Email:** [hamsonintezar@gmail.com](mailto:hamsonintezar@gmail.com)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Core Skills  
+
+- 🔹 **Cloud Platforms:** AWS, Azure, Google Cloud Platform (GCP)  
+- 🔹 **Containerization & Orchestration:** Docker, Kubernetes, Helm  
+- 🔹 **CI/CD Pipelines:** Jenkins, GitHub Actions, GitLab CI/CD, Azure DevOps  
+- 🔹 **Infrastructure as Code (IaC):** Terraform, Ansible, CloudFormation  
+- 🔹 **Monitoring & Observability:** Prometheus, Grafana, ELK Stack, CloudWatch  
+- 🔹 **Scripting & Automation:** Bash, Python, PowerShell  
+- 🔹 **Version Control & Collaboration:** Git, GitHub, Bitbucket  
+
+---
+
+## 🚀 Projects & Interests  
+
+- ✅ Building **scalable cloud-native infrastructures**  
+- ✅ Implementing **automated CI/CD pipelines** for faster delivery  
+- ✅ Enhancing **system reliability, uptime, and performance**  
+- ✅ Developing **infrastructure automation and observability frameworks**  
+
+---
+
+## 🌱 Currently Learning  
+
+- 📌 GitOps with ArgoCD and FluxCD  
+- 📌 Advanced Kubernetes networking and security  
+- 📌 Cloud cost optimization and FinOps practices  
+- 📌 Serverless and event-driven architectures  
+
+---
+
+> 🚀 Passionate about automation, scalability, and reliability — empowering teams to deliver faster and smarter in the cloud.
